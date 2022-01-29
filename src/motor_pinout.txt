@@ -1,0 +1,6 @@
+1-UNREG GND = GND
+2-VS        = PWM IN
+3-VCC       = +5V
+4-STDBY     = +5V
+5-REC CAP/FG= DIR FW/RW
+6-FG/OUT    = N/C
